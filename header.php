@@ -26,7 +26,7 @@
                 </h2>
             </section>
             <nav class="site__navigation">
-            Menu
+            Menu du site
             </nav>
         </header>
     
