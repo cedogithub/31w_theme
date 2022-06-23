@@ -67,6 +67,7 @@ html {
  */
 body {
   margin: 0;
+  background-color: lightgray;
 }
 
 /**
@@ -558,3 +559,14 @@ textarea {
   width: 100%;
 }
 /*# sourceMappingURL=style.css.map */
+
+/*. Navigation */
+
+.site__navigation{
+   
+  font-weight: 700;
+  font-size:  30px;
+  font-family:  Helvetica, sans-serif;
+
+
+}
